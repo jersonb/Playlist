@@ -34,4 +34,5 @@
 
 ## Projeto Playlist2
 
-> Implementado com a abstração LinkedList do C#. 
+> Implementado com a abstração LinkedList do C#.
+> Foi bem fácil pra desenvolver. 
